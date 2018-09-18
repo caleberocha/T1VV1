@@ -2,7 +2,7 @@
 package t1vv1;
 
 public class ScoresBuggedImpl implements Scores {
-	public static final int maxEntries = 10; // number of high scores we keep
+	public static final int maxEntries = 5; // number of high scores we keep
 
 	protected int numEntries; // number of actual entries
 
